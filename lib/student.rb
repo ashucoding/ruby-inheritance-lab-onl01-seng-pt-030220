@@ -10,4 +10,3 @@ end 	  def initialize
     knowledge << string
   end
 end
-end
